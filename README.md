@@ -6,6 +6,21 @@ This is my personal portfolio website built using HTML and CSS.
 
 ![Home Page](assets/home-screenshot.png)
 
+## 📁 Project Structure
+
+```
+.
+├── assets/
+│   ├── home-screenshot.png
+│   ├── main.png
+│   ├── main-mobile.png
+│   ├── favicon/
+│   └── icons/
+├── index.html
+├── styles.css
+├── README.md
+```
+
 ## About
 
 A simple and responsive website to showcase my skills, projects, and basic information about me.
