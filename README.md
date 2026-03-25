@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML and CSS.
 
 ## Preview
 
-![Home Page](assets/home-screenshot.png)
+![Home Page](assets/images/screenshot-README.png)
 
 ## 📁 Project Structure
 
