@@ -105,7 +105,7 @@ nav a {
 }
 
 nav a:hover {
-    border-bottom: 3px solid var(--main-color);
+    border-bottom: 2px solid var(--main-color);
 }
 
 /* ============================================================
@@ -125,8 +125,8 @@ nav a:hover {
 
 .home-content h3 {
     font-size: 4rem;
-    margin-bottom: 1rem;
     font-weight: 700;
+    margin-bottom: 1rem;
 }
 
 span {
@@ -203,11 +203,11 @@ span {
     margin-bottom: 2rem;
 }
 
-h3 {
+.about h3 {
     font-size: 2rem;
     font-weight: 600;
     color: var(--main-color);
-    margin-bottom: 1.5rem;
+    margin: 3rem 0 1.5rem;
 }
 
 .about-me p {
@@ -216,11 +216,7 @@ h3 {
 
 /* --- Skills Cards --- */
 .skills-cards {
-    margin-top: 4rem;
-}
-
-.skills-group {
-    margin-bottom: 3rem;
+    margin: 5rem 0;
 }
 
 .badges {
@@ -480,7 +476,7 @@ h3 {
         align-items: center;
         text-align: left;
         background-image: radial-gradient(circle, rgba(94, 122, 207, .25) 1px, transparent 1px);
-        background-size: 20px 20px;
+        background-size: 18px 18px;
     }
 
     .social-icons a {

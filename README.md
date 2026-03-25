@@ -40,6 +40,7 @@ A simple and responsive website to showcase my skills, projects, and basic infor
 
 * HTML
 * CSS
+* JavaScript
 
 ## Feedback
 
